@@ -1,0 +1,6 @@
+.switch-button{
+    margin: 0 0.5rem;
+}
+button:disabled.switch-button{
+    cursor: not-allowed;
+}

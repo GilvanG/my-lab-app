@@ -1,0 +1,7 @@
+.users {
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 25px 0;
+    gap: 10px;
+  }
